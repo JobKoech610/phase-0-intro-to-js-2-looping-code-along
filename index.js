@@ -63,4 +63,4 @@ while(num>=0){
     num--;
 }
 }
-countDown(3);
+countDown(10);
